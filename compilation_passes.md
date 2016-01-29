@@ -6,8 +6,20 @@
 1 :: *
 ```
 
-will become
+will become:
 
 ```ruby
 1 :: Cons ((String "Int") :: *) :: * 
+```
+
+and
+
+```ruby
+"foo bar" :: *
+```
+
+will become:
+
+```ruby
+"foo bar" :: Cons ((String "String") :: *) :: * 
 ```
