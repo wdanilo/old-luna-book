@@ -13,5 +13,5 @@
    * [Types](classes_and_objects.md)
 * [Classes, objects and categories](classes_objects_and_categories.md)
 * [Other](other.md)
-* The Luna compiler
+* [The Luna compiler](the_luna_compiler.md)
 
