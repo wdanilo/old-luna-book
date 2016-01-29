@@ -2,6 +2,8 @@
 
 - Assigning types to literals:
 
+Integer literals such as:
+
 ```ruby
 1 :: *
 ```
@@ -12,7 +14,7 @@ will become:
 1 :: Cons ((String "Int") :: *) :: * 
 ```
 
-and
+and string literals such as:
 
 ```ruby
 "foo bar" :: *
