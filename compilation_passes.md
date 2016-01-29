@@ -14,7 +14,7 @@ will become:
 1 :: Cons ((String "Int") :: *) :: * 
 ```
 
-and string literals such as:
+String literals such as:
 
 ```ruby
 "foo bar" :: *
