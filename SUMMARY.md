@@ -14,5 +14,5 @@
 * [Classes, objects and categories](classes_objects_and_categories.md)
 * [Other](other.md)
 * [The Luna compiler](the_luna_compiler.md)
-   * Compilation passes
+   * [Compilation passes](compilation_passes.md)
 
