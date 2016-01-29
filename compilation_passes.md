@@ -9,5 +9,5 @@
 will become
 
 ```ruby
-1 :: Cons (String ("Int" :: *)) :: * 
+1 :: Cons ((String "Int") :: *) :: * 
 ```
